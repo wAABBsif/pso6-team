@@ -1,3 +1,6 @@
 Team members: wAABBsif and srivaskumara
 Favorite programming language: TBD
-Team motto: kermit often
+
+Team motto: Code hard, debug harder 
+
+
